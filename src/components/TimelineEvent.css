@@ -7,7 +7,7 @@
 }
 
 .timeline-event:hover {
-  background-color: #F5F8FA;
+  background-color: #EEDAD8;
 }
 
 .event-person {
@@ -24,4 +24,5 @@
   grid-area: 1 / 2 / span 1 / span 1;
   margin-top: 0.5rem;
   text-align: right;
+  font-style: italic;
 }
